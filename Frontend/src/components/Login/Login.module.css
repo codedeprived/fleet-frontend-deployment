@@ -1,0 +1,60 @@
+/* 
+body{
+  background: #4070f4;
+}
+.loginContainer {
+  max-width: 400px;
+  margin: 10vh auto 0;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+header {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputField {
+  margin-bottom: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4070f4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #265df2;
+}
+
+.forgotBtn {
+  background: none;
+  color: #4070f4;
+  text-align: left;
+  padding: 0;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+} */
